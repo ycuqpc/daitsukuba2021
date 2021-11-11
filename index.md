@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# 第21回大つくば物理化学セミナー
 
-You can use the [editor on GitHub](https://github.com/ycuqpc/daitsukuba2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 日時
+- 12月3日(金) 午前・午後・懇親会
+- 12月4日(土) 午前・午後
+   
+### 場所
+Zoomによる遠隔オンライン（Zoom IDはメールでお知らせします。）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 参加費
+無料
 
-### Markdown
+### 参加・発表登録サイト ※１
+https://forms.office.com/r/pPgNykqdKg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 発表時間
+人数にもよりますが、以下のような発表時間を考えています。
+- 学部生　　10～15分
+- 修士学生　15～20分
+- 博士学生　20～25分
+- 研究員　　20～30分
+- 招待講演　60～80分
 
-```markdown
-Syntax highlighted code block
+### 招待講演
+#### 12月3日(金)
+- [村岡梓 先生 （日本女子大学）](http://mcm-www.jwu.ac.jp/~muraoka/)
+- [伊藤繁和 先生（東京工業大学）](http://www.sito-cap.mac.titech.ac.jp/)
 
-# Header 1
-## Header 2
-### Header 3
+#### 12月4日(土)
+- [南部伸孝 先生（上智大学）](http://pweb.cc.sophia.ac.jp/nanbu_lab)
+- [高橋開人 先生（Academia SINICA (原子分子科学研究所)）](https://labs.iams.sinica.edu.tw/project/kaito)
 
-- Bulleted
-- List
+### 今後のスケジュール
 
-1. Numbered
-2. List
+|日程|〆切等|
+|:---|:---|
+|11月12日(金)|発表・参加登録の締切 (上記サイトから申し込んでください)|
+|11月19日(金)|要旨提出〆切 (※１、※２ 吉田大輔宛)|
+|11月26日(金)|要旨配布|
+|12月3日・4日|当日|
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ycuqpc/daitsukuba2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+※1　口頭発表を希望する者は、参加・発表登録サイトの中で、「英語での発表も可能」か「日本語を希望」かも選択してください。<br>
+　　「英語での発表も可能」の場合、要旨作成には、英語の要旨テンプレートを使ってください。<br>
+  　「日本語を希望」の場合、要旨作成には、日本語の要旨テンプレートを使ってください。
+   
+※2　添付ファイルは、以下二つとなります。
+  - 英語の要旨テンプレート
+  - 日本語の要旨テンプレート
+ 
+※3　ご不明の点がございましたら、立川までお問い合わせください。
