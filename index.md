@@ -1,8 +1,10 @@
 # 第21回大つくば物理化学セミナー
 
 ### 日時
-- 12月3日(金) 午前・午後・懇親会
-- 12月4日(土) 午前・午後
+- 12月3日(金) 午前・午後・懇親会　（←従来の大つくば）
+- 12月4日(土) 午前・午後　（←さくらサイエンスによる英語セッション）[abstract_template_2021en.docx](https://github.com/ycuqpc/daitsukuba2021/files/7520386/abstract_template_2021en.docx)
+[abstract_template_2021jp.docx](https://github.com/ycuqpc/daitsukuba2021/files/7520387/abstract_template_2021jp.docx)
+
    
 ### 場所
 Zoomによる遠隔オンライン（Zoom IDはメールでお知らせします。）
