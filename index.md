@@ -2,9 +2,7 @@
 
 ### 日時
 - 12月3日(金) 午前・午後・懇親会　（←従来の大つくば）
-- 12月4日(土) 午前・午後　（←さくらサイエンスによる英語セッション）[abstract_template_2021en.docx](https://github.com/ycuqpc/daitsukuba2021/files/7520386/abstract_template_2021en.docx)
-[abstract_template_2021jp.docx](https://github.com/ycuqpc/daitsukuba2021/files/7520387/abstract_template_2021jp.docx)
-
+- 12月4日(土) 午前・午後　（←さくらサイエンスによる英語セッション
    
 ### 場所
 Zoomによる遠隔オンライン（Zoom IDはメールでお知らせします。）
@@ -52,7 +50,8 @@ __12月4日(土)__
   　「日本語を希望」の場合、要旨作成には、日本語の要旨テンプレートを使ってください。
    
 ※2　添付ファイルは、以下二つとなります。
-  - 英語の要旨テンプレート
-  - 日本語の要旨テンプレート
+- [英語の要旨テンプレート](https://github.com/ycuqpc/daitsukuba2021/files/7520386/abstract_template_2021en.docx)
+- [日本語の要旨テンプレート](https://github.com/ycuqpc/daitsukuba2021/files/7520387/abstract_template_2021jp.docx)
+
  
 ※3　ご不明の点がございましたら、立川までお問い合わせください。
