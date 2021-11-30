@@ -40,11 +40,6 @@ __12月4日(土)__
 - 南部伸孝 先生（[上智大学](http://pweb.cc.sophia.ac.jp/nanbu_lab)）
 - 高橋開人 先生（[Academia SINICA (原子分子科学研究所)](https://labs.iams.sinica.edu.tw/project/kaito)）
 
-### 要旨集
-
-パスワードはメールでお知らせします。
-- [abstract-book_2021_whole.pdf](https://github.com/ycuqpc/daitsukuba2021/files/7622076/abstract-book_2021_whole.pdf)
-
 ### スケジュール
 
 |日程|〆切等|
@@ -53,6 +48,11 @@ __12月4日(土)__
 |11月19日(金)|要旨提出〆切 (※１、※２ 吉田大輔宛)|
 |11月26日(金)|要旨配布|
 |12月3日・4日|当日|
+
+### 要旨集
+
+パスワードはメールでお知らせします。
+- [abstract-book_2021_whole.pdf](https://github.com/ycuqpc/daitsukuba2021/files/7622076/abstract-book_2021_whole.pdf)
 
 ---
 
