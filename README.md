@@ -52,6 +52,7 @@ __12月4日(土)__
 ### 要旨集
 
 - [abstract-book_2021_whole.pdf](https://github.com/ycuqpc/daitsukuba2021/files/7622076/abstract-book_2021_whole.pdf)
+
 パスワードはメールでお知らせします。
 
 ---
