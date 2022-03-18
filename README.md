@@ -49,12 +49,13 @@ __12月4日(土)__
 |11月26日(金)|要旨配布|
 |12月3日・4日|当日|
 
+<!-- 
 ### 要旨集
 
 - [abstract-book-2021_whole_FINAL.pdf](https://github.com/ycuqpc/daitsukuba2021/files/7632472/abstract-book-2021_whole_FINAL.pdf)
 
 パスワードはメールでお知らせします。
-
+ -->
 ---
 
 ※1　口頭発表を希望する者は、参加・発表登録サイトの中で、「英語での発表も可能」か「日本語を希望」かも選択してください。<br>
